@@ -4,6 +4,7 @@ Purple
 Orange
 Blue
 Red
+Indigo
 Pink
 Unircorn
 Green
